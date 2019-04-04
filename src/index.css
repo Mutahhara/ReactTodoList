@@ -1,0 +1,11 @@
+body{
+  display: flex;
+  justify-content:flex-start;
+  align-items:center;
+  flex-direction: column;
+  background-image:linear-gradient(white, grey), url(/public/bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-blend-mode:saturation;
+}
